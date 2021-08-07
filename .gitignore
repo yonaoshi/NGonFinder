@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Blender Backup File
+.blender*
+
 # Distribution / packaging
 .Python
 build/
